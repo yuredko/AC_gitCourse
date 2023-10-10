@@ -1,5 +1,4 @@
-
-# Work with git
+# How work with git
 
 ## Configure tooling
 Configure user information for all local repositories
@@ -35,7 +34,6 @@ Combines the specified branch's history into the current branch. This is usually
 ```$ git branch -d [branch-name]```
 
 Deletes the specified branch
-
 
 ## Create repositories
 
@@ -76,7 +74,6 @@ Uploads all local branch commits to GitHub
 ```$ git pull```
 
 Updates your current local working branch with all new commits from the corresponding remote branch on GitHub. `git pull` is a combination of `git fetch` and `git merge`
-
 
 ## Make changes
 
